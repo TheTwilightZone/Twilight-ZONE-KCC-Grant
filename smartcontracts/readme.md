@@ -1,8 +1,8 @@
-alphadaoerc20.sol
+AlphaDAOERC20.sol
 
 0xBA99f6B92Df02296998667131fCb2b9507c7f7C6
 
-Redeemer Helper .sol
+RedeemerHelper.sol
 
 0xd75FDAF12E3b3159b7587427E7E0E76c84201B69
 
