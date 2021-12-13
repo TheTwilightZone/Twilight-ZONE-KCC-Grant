@@ -13,3 +13,7 @@ sADAO.SOL (staked ADAO)
 ADAOCirculatingSupplyContract.sol
 
 0x52fD26213F5176a46C6Ee250b3a16CfF36a49a01
+
+ADAOBondingCalculator.sol
+
+0x49668E850f0A30a02B5835f550D6d112687b207b
