@@ -17,3 +17,8 @@ ADAOCirculatingSupplyContract.sol
 ADAOBondingCalculator.sol
 
 0x49668E850f0A30a02B5835f550D6d112687b207b
+
+ADAOTreasury.sol
+
+0xe9e20Ce68F321Fb9f8730c0836076Ff4782bF5Ed
+
