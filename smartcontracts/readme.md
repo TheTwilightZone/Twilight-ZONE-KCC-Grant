@@ -50,4 +50,5 @@ AlphaDAOBondDepository.sol
 
 0xA9D9b2577a4f869e70E6dEDB9F7D1E441df541EE
 
+Bond = wKCS
 
